@@ -1,1 +1,7 @@
-# nov_12_2019A.Python.Programs1
+SORTING ALGORITHMS
+
+1 selection sort
+
+2 bubble sort
+
+3 insertion sort
